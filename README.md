@@ -1,4 +1,4 @@
 # My DSA Journey
-Welcome to Anu Likhitha Immadisetty's DSA Journey! I will explore different DSA sheets from basics to advanced, solving problems step by step and documenting my progress along the way. 🚀  
+Welcome to Anu Likhitha Immadisetty's DSA Journey!🚀 This repository will document my progress, solutions, and learning resources as I dive deep into DSA step by step. 
 
 ## Day - 01
