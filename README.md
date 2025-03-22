@@ -1,2 +1,4 @@
-# My-DSA-Journey
-Starting my Data Structures and Algorithms (DSA) journey from scratch with a focus on building strong fundamentals and improving problem-solving skills. This repository will document my progress, solutions, and learning resources as I dive deep into DSA step by step. 🚀
+# My DSA Journey
+Welcome to Anu Likhitha Immadisetty's DSA Journey! I will explore different DSA sheets from basics to advanced, solving problems step by step and documenting my progress along the way. 🚀  
+
+## Day - 01
